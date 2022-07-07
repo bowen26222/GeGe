@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc6309d7a23ab5841bdd75a5c9865356, type: 3}
+  m_Name: PlayerState
+  m_EditorClassIdentifier: 
+  maxEndurance: 20
+  currentEndurance: 20.039907
+  consumeSpeed: 1
+  recoverSpeed: 8
+  isOccupied: 0
+  FlyAble: 0
+  LeftWing: 1
+  RightWing: 1
